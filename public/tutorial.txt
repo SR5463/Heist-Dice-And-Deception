@@ -1,0 +1,46 @@
+Heist: Dice & Deception - Game Rules & Reference Sheet
+
+Player Count & Objective
+-------------------------
+Players: 3–4  |  Playtime: 45–60 minutes
+Objective: Steal loot from the casino vault and escape before getting caught — but beware: one player may secretly be a traitor!
+
+Setup Instructions
+------------------
+1. Unfold the A3 game board in the center.
+2. Each player selects a role (Hacker, Grifter, Muscle, Ghost).
+3. Place all meeples in the Lounge (Start Room).
+4. Place 3 loot tokens in the Vault.
+5. Place 4 Security Guard tokens on marked paths.
+6. Shuffle & deal role cards (1 Traitor, rest Loyal).
+7. Place 3 six-sided dice (3d6) nearby.
+8. Keep this sheet close for reference.
+
+Gameplay Loop
+-------------
+Each round:
+1. Planning Phase
+2. Movement Phase
+3. Checkpoint Phase (Rolling)
+4. Event Phase (Consequences & Traitor)
+
+Checkpoint Targets & Success Rates
+----------------------------------
+• Standard (≥ 8): 84.3%  |  Traitor Flip: 70.4%
+• Security (≥ 10): 62.5%  |  Traitor Flip: 45.3%
+• Shortcut (≥ 12): 37.5%  |  Traitor Flip: 25.4%
+
+Vault & Escape
+--------------
+• Vault Roll (sum ≥ 11 per die/player) for loot.
+• Escape Roll (3d6 ≥ 10) to exit.
+• Traitor may flip one die each roll.
+
+Victory Conditions
+------------------
+Loyal Win: ≥2 players escape with ≥2 loot.
+Traitor Wins: Loyal team delayed or loses enough loot.
+
+Suspect Voting
+--------------
+Once per game: you can choose to vote to reveal traitor. If wrong, lose 1 loot.
