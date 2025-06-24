@@ -21,4 +21,4 @@ You can use the app directly in your browser:
 
 👉 [Launch Heist: Dice & Deception](https://heist-dice-and-deception.vercel.app)
 
-No installation needed. Just share the link with your players and start your heist!
+No installation needed. Just click the link and start your heist!
