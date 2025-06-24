@@ -32,9 +32,9 @@ export default function RoleAssignment({ players, setPlayers }) {
     const idx = players.length;
     const role = idx === traitorIndex.current ? TRAITOR : SAFE;
     if (role === TRAITOR) {
-      alert(`${name.trim()}, you are the ${role}! Beware!`);
+      alert(`${name.trim()}, you are the ${role}! Be careful not to reveal yourself!`);
     } else {
-      alert(`${name.trim()}, you're in the clear this round.`);
+      alert(`${name.trim()}, you're in the clear this round, trust no one...`);
     }
     const newPlayer = { name: name.trim(), meeple, role, revealed: false };
     setPlayers(prev => [...prev, newPlayer]);
